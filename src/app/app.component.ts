@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'routing-app';
+ /* obj = {
+    id: "1",
+    name: "Babar"
+  }
+
+  arr= ["abc","def","ghi"]
+
+  isTrue = false 
+
+  myName = "Babar" */
+
 }
